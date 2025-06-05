@@ -3,7 +3,7 @@ Project link = https: //react-web-educase.vercel.app
 ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
 
-## Available Scripts
+### Available Scripts
 In the project directory, you can run:
 
 ## npm start
@@ -35,10 +35,10 @@ Instead, it will copy all the configuration files and the transitive dependencie
 
 You don't have to ever use eject. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-📌 Design Reference - Adobe XD Design: [View Design](https: //xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
-🚀 Live Demo - 🌐 Hosted on Vercel: [Live Application Link](https: //react-web-educase.vercel.app)
-📁 GitHub Repository: [GitHub Repo Link](https://github.com/AasrithaChandu/Educase-Assignment)
-📝 Features 
+# 📌 Design Reference - Adobe XD Design: [View Design](https: //xd.adobe.com/view/b68eea25-003d-4a5d-8fdd-d463eeb20b32-e3dd)
+# 🚀 Live Demo - 🌐 Hosted on Vercel: [Live Application Link](https: //react-web-educase.vercel.app)
+# 📁 GitHub Repository: [GitHub Repo Link](https://github.com/AasrithaChandu/Educase-Assignment)
+## 📝 Features 
     📱 Mobile-centered interface 
     🎯 Pixel-perfect styling from Adobe XD 
     🔁 Smooth navigation between pages 
