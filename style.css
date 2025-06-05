@@ -1,0 +1,129 @@
+ *
+    {
+        box - sizing: border - box;
+    }
+body, html {
+    margin: 0;
+    padding: 0;
+    font - family: 'Segoe UI',
+    sans - serif;
+    background: #f5f5f7;
+    display: flex;
+    justify - content: center;
+    align - items: center;
+    height: 100 vh;
+}
+.app - container {
+    background: white;
+    width: 375 px;
+    padding: 30 px 20 px;
+    border - radius: 12 px;
+    box - shadow: 0 8 px 24 px rgba(0, 0, 0, 0.1);
+    position: relative;
+}
+h2 {
+    font - size: 22 px;
+    font - weight: 700;
+    margin - bottom: 10 px;
+    color: #1e1e1e;
+}
+p {
+  font-size: 14px;
+  color: # 555;
+}
+label {
+    font - size: 14 px;
+    font - weight: 600;
+    display: block;
+    margin: 10 px 0 5 px;
+}
+input, select {
+    width: 100 % ;
+    padding: 10 px;
+    margin - bottom: 10 px;
+    font - size: 14 px;
+    border - radius: 8 px;
+    border: 1 px solid #ccc;
+}
+.btn {
+    width: 100 % ;
+    padding: 12 px;
+    font - size: 16 px;
+    border: none;
+    border - radius: 8 px;
+    background - color: #5b21b6;
+  color: white;
+  font-weight: 600;
+  cursor: pointer;
+  margin-top: 10px;
+}
+.link {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 14px;
+  color: # 5 b21b6;
+    cursor: pointer;
+}
+.back - btn {
+        position: absolute;
+        top: 20 px;
+        left: 20 px;
+        font - size: 18 px;
+        background: none;
+        border: none;
+        cursor: pointer;
+        color: #5b21b6;
+  font-weight: bold;
+}
+.profile-title {
+  font-size: 14px;
+  font-weight: 600;
+  color: # 777;
+        margin - top: 40 px;
+    }
+    .profile - header {
+        display: flex;
+        align - items: center;
+        margin - top: 15 px;
+        margin - bottom: 10 px;
+        position: relative;
+    }
+    .profile - img - wrapper {
+        position: relative;
+        margin - right: 15 px;
+    }
+    .profile - pic {
+        width: 70 px;
+        height: 70 px;
+        border - radius: 50 % ;
+        object - fit: cover;
+    }
+    .camera - icon {
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        background: white;
+        border - radius: 50 % ;
+        border: 1 px solid #ccc;
+        padding: 5 px;
+        width: 24 px;
+        height: 24 px;
+        display: flex;
+        align - items: center;
+        justify - content: center;
+    }
+    .profile - name {
+        font - size: 18 px;
+        font - weight: 600;
+        color: #333;
+}
+.profile-email {
+  font-size: 14px;
+  color: # 666;
+    }
+    .description {
+        font - size: 14 px;
+        color: #444;
+  line-height: 1.5;
+  margin-top: 20px;
+}
