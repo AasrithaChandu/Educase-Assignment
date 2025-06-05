@@ -1,4 +1,4 @@
-Project link = https: //react-web-educase.vercel.app
+Project link = https://react-web-educase.vercel.app
 
 ## Getting Started with Create React App
 This project was bootstrapped with Create React App.
